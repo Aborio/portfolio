@@ -3,7 +3,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://portfolio-agustinborio.vercel.app" target="_blank"></a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfolio-agustinborio.vercel.app" target="_blank">AgustinBorio Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
